@@ -34,7 +34,7 @@
 	</br></br>
 	</br>
 	
-    <label for="msg"><b>Message</b></label>
+    <label for="msg"><b>Message :</b></label>
     <textarea style="height: 109px; width: 571px; font-size: 14px !important;" placeholder="Type message.." name="msg" id="msg" required></textarea>
 	<input type="hidden" value="<?php echo $_SESSION['iduser'] ?>" name="iduser" id="iduser" />
 	<input type="hidden" value="<?php echo $_SESSION['user_name'] ?>" name="user_name" id="user_name" />
