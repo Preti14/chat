@@ -25,7 +25,7 @@
     <h1>Chat</h1>	
 	<div id="chat_box" class="chat-popup">
 	<?php //echo "<pre>";
-	while($r = mysqli_fetch_array($result, MYSQLI_ASSOC)){
+	while($r = mysqli_fetch_array123($result, MYSQLI_ASSOC)){
 		
 		echo "<b>".$r['username'] ." :</b> ".$r['msg']." </br>";
 	}
