@@ -63,7 +63,7 @@ if (! empty($_POST["register-user"])) {
 </head>
 <body>
 <h1>Mrs.Mohanraj....</h1>
-<h2>Work hard.. U will win one day...</h2>
+<h2>Work hard.. keep trying... U will win one day...</h2>
     <form name="frmRegistration" method="post" action="">
         <div class="demo-table">
         <div class="form-head">Sign Up</div>
