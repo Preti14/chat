@@ -62,6 +62,7 @@ if (! empty($_POST["register-user"])) {
 <link href="./css/style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
+<h1>Mrs.Mohanraj....</h1>
     <form name="frmRegistration" method="post" action="">
         <div class="demo-table">
         <div class="form-head">Sign Up</div>
