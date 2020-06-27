@@ -1,2 +1,2 @@
 # chat
-xccchat with users
+cxccchat with users
